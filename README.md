@@ -4,7 +4,7 @@ A simple serverside fabric mod to add clickable links in minecraft game chat
 
 ## Usage
 
-install the mod on your servert
+install the mod on your server
 
 post a link in chat
 
